@@ -10,6 +10,6 @@ Simple full-stack web application with fuzzy search capability that stores 3 gam
 
 ## Running app locally
 1. Clone the repository
-2. Open root `cd eneba-app`
+2. Open root `cd eneba-web-app`
 3. Build and run with Docker Compose `docker-compose up --build`
 4. Open app on `http://localhost:3000`
